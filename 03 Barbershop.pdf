@@ -1,0 +1,599 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<< /F1 2 0 R /F2 3 0 R /F3 4 0 R >>
+endobj
+2 0 obj
+<< /BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font >>
+endobj
+3 0 obj
+<< /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font >>
+endobj
+4 0 obj
+<< /BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font >>
+endobj
+5 0 obj
+<< /Contents 15 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 14 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+  /Type /Page >>
+endobj
+6 0 obj
+<< /Contents 16 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 14 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+  /Type /Page >>
+endobj
+7 0 obj
+<< /Outlines 9 0 R /PageLabels 17 0 R /PageMode /UseNone /Pages 14 0 R /Type /Catalog >>
+endobj
+8 0 obj
+<< /Author () /CreationDate (D:20161024174700+06'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20161024174700+06'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title (Assignment 3: The Barbershop) /Trapped /False >>
+endobj
+9 0 obj
+<< /Count 4 /First 10 0 R /Last 13 0 R /Type /Outlines >>
+endobj
+10 0 obj
+<< /Dest [ 5 0 R /XYZ 62.69291 659.0236 0 ] /Next 11 0 R /Parent 9 0 R /Title (The Sleeping Barber Problem) >>
+endobj
+11 0 obj
+<< /Dest [ 5 0 R /XYZ 62.69291 530.0236 0 ] /Next 12 0 R /Parent 9 0 R /Prev 10 0 R /Title (The Code I've Given You) >>
+endobj
+12 0 obj
+<< /Dest [ 5 0 R /XYZ 62.69291 318.6236 0 ] /Next 13 0 R /Parent 9 0 R /Prev 11 0 R /Title (What You Do) >>
+endobj
+13 0 obj
+<< /Dest [ 5 0 R /XYZ 62.69291 99.62362 0 ] /Parent 9 0 R /Prev 12 0 R /Title (Turn it in) >>
+endobj
+14 0 obj
+<< /Count 2 /Kids [ 5 0 R 6 0 R ] /Type /Pages >>
+endobj
+15 0 obj
+<< /Length 8653 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 86.58488 0 Td (Assignment 3: The Barbershop) Tj T* -86.58488 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 719.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Due Date: ) Tj /F1 10 Tf (Turn this in before Friday, November 4th at 11:59 p.m.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 701.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (For this assignment, you will make an implementation of the famous "sleeping barber" problem.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 671.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .143516 Tw 12 TL /F2 10 Tf 0 0 0 rg (Be careful) Tj /F1 10 Tf (: there are many descriptions of the sleeping barber problem online. You are free to read about) Tj T* 0 Tw (them, but there are many subtle variations in the way the problem works.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 638.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (The Sleeping Barber Problem) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 626.0236 cm
+Q
+q
+1 0 0 1 62.69291 626.0236 cm
+Q
+q
+1 0 0 1 62.69291 614.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (A barbershop has three waiting chairs, and the barber chair.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 608.0236 cm
+Q
+q
+1 0 0 1 62.69291 596.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (If there are no customers, the barber sits in the barber chair and sleeps.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 590.0236 cm
+Q
+q
+1 0 0 1 62.69291 578.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (If a customer enters the shop and no waiting chairs are available, the customer leaves.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 572.0236 cm
+Q
+q
+1 0 0 1 62.69291 560.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (If the barber is busy, but chairs are available, the customer sits in a chair.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 554.0236 cm
+Q
+q
+1 0 0 1 62.69291 542.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (If the barber is asleep, the customer wakes up the barber.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 542.0236 cm
+Q
+q
+1 0 0 1 62.69291 509.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (The Code I've Given You) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 479.0236 cm
+q
+BT 1 0 0 1 0 14 Tm 1.281984 Tw 12 TL /F1 10 Tf 0 0 0 rg (The code I've given you creates a barber thread \(running the ) Tj /F3 10 Tf 0 0 0 rg (barber_thread) Tj /F1 10 Tf 0 0 0 rg (\) function. It creates an) Tj T* 0 Tw (additional customer thread \(running the ) Tj /F3 10 Tf 0 0 0 rg (customer_thread ) Tj /F1 10 Tf 0 0 0 rg (function\) every time you press a key.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 437.0236 cm
+q
+BT 1 0 0 1 0 26 Tm .202209 Tw 12 TL /F1 10 Tf 0 0 0 rg (You shouldn't need to write any grahpics code or alter the ) Tj /F3 10 Tf 0 0 0 rg (main ) Tj /F1 10 Tf 0 0 0 rg (function in any way. I've provided simple) Tj T* 0 Tw 1.402485 Tw (functions that allow each thread to manipulate a single shape on screen. For example, when a thread) Tj T* 0 Tw (calls:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 403.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 24 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (capp::enter\(\);) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 383.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (That creates a shape for the thread and moves it onto the screen. If that thread then calls:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 350.6236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 24 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (capp::move_to\({x, y}\);) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 330.6236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (then its shape will move to row ) Tj /F3 10 Tf 0 0 0 rg (x) Tj /F1 10 Tf 0 0 0 rg (, column ) Tj /F3 10 Tf 0 0 0 rg (y) Tj /F1 10 Tf 0 0 0 rg (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 297.6236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (What You Do) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 279.6236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (You need to add code so that the barber and customer threads act according to the description above.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 273.6236 cm
+Q
+q
+1 0 0 1 62.69291 273.6236 cm
+Q
+q
+1 0 0 1 62.69291 249.6236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .559269 Tw (No thread should ever busy-wait! For example, customer threads sitting in the waiting chairs should) Tj T* 0 Tw (probably be waiting on a condition variable.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 243.6236 cm
+Q
+q
+1 0 0 1 62.69291 231.6236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Whenever a thread is waiting, its shape should be red.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 225.6236 cm
+Q
+q
+1 0 0 1 62.69291 213.6236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Whenever a thread is not waiting, its shape should be green.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 207.6236 cm
+Q
+q
+1 0 0 1 62.69291 195.6236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (When the barber sleeps, he goes to his chair \() Tj /F3 10 Tf 0 0 0 rg (BARBER_CHAIR) Tj /F1 10 Tf 0 0 0 rg (\).) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 189.6236 cm
+Q
+q
+1 0 0 1 62.69291 177.6236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (The barber should call ) Tj /F3 10 Tf 0 0 0 rg (cut_hair\(\) ) Tj /F1 10 Tf 0 0 0 rg (when a customer is in the barber chair.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 171.6236 cm
+Q
+q
+1 0 0 1 62.69291 159.6236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The customer shouldn't leave the chair until the haircut is complete.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 153.6236 cm
+Q
+q
+1 0 0 1 62.69291 129.6236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.223516 Tw (The barber thread should run in a loop. Neither it nor the customer threads need to check for) Tj T* 0 Tw (program termination.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 123.6236 cm
+Q
+q
+1 0 0 1 62.69291 111.6236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (You can't use semaphores for this assignment.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 111.6236 cm
+Q
+q
+1 0 0 1 62.69291 78.62362 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Turn it in) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+16 0 obj
+<< /Length 1069 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 759.0236 cm
+Q
+q
+1 0 0 1 62.69291 759.0236 cm
+Q
+q
+1 0 0 1 62.69291 735.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.621163 Tw (You should modify the source code I've provided you. There is no need for extra source files or) Tj T* 0 Tw (changes to the Makefile.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 729.0236 cm
+Q
+q
+1 0 0 1 62.69291 705.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm 1.206235 Tw 12 TL /F1 10 Tf 0 0 0 rg (Make a folder labeled ) Tj /F3 10 Tf 0 0 0 rg (Assignment) Tj ( ) Tj (3 ) Tj /F1 10 Tf 0 0 0 rg (in your turn-in directory and copy in your source files and) Tj T* 0 Tw (Makefile.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 705.0236 cm
+Q
+ 
+endstream
+endobj
+17 0 obj
+<< /Nums [ 0 18 0 R 1 19 0 R ] >>
+endobj
+18 0 obj
+<< /S /D /St 1 >>
+endobj
+19 0 obj
+<< /S /D /St 2 >>
+endobj
+xref
+0 20
+0000000000 65535 f
+0000000075 00000 n
+0000000129 00000 n
+0000000239 00000 n
+0000000354 00000 n
+0000000462 00000 n
+0000000671 00000 n
+0000000880 00000 n
+0000000987 00000 n
+0000001276 00000 n
+0000001352 00000 n
+0000001482 00000 n
+0000001621 00000 n
+0000001748 00000 n
+0000001861 00000 n
+0000001930 00000 n
+0000010640 00000 n
+0000011766 00000 n
+0000011819 00000 n
+0000011856 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com)
+ [(\361\322<K\215\207\214\030\017\350\033\307\373\225\021\303) (\361\322<K\215\207\214\030\017\350\033\307\373\225\021\303)]
+ /Info 8 0 R /Root 7 0 R /Size 20 >>
+startxref
+11893
+%%EOF
